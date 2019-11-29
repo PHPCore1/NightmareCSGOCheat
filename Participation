@@ -1,23 +1,24 @@
 FreeCheats:
- - Skinchanger
- - NoHands
- - Chams/Glow/ESP
- - Login & Loader C#/PHP
- - Injector
- - Bypass
- - Memory
- - Process
- - RCS (Recoil Control System)
- - Backtrack
+ - Skinchanger ❌
+ - NoHands ❌
+ - Chams/Glow/ESP ❌
+ - Login & Loader C#/PHP ❌
+ - Injector ❌
+ - Bypass ❌
+ - Memory ❌
+ - Process ❌
+ - RCS (Recoil Control System) ❌
+ - Backtrack ❌
 
 PHPCore:
- - NoFlash
- - NoSmoke
- - BombTimer
- - Bunnyhop
+ - NoFlash ❌
+ - NoSmoke ❌
+ - BombTimer ❌
+ - Bunnyhop ❌
  
 Both:
- - GUI
- - Config System
- - Aimbot
- - Clantag
+ - GUI ❌
+ - Config System ❌
+ - Aimbot ❌
+ - Clantag ❌
+ - Reportbot ❌
